@@ -1,0 +1,30 @@
+# bento.yml · made with bento-readme
+github:
+  user: amehara
+output: bento.svg
+theme: brutalist
+cards:
+  - type: hero
+    size: 2x2
+    title: amehara
+    subtitle: entrepreneur, developer, designer
+    headline:
+      - hello, im
+      - amehara.
+  - type: number
+    source: contributions
+    label:
+      - contributions
+      - in the last year
+    color: aurora
+  - type: streak
+  - type: band
+    text: thanks for stopping by.
+    color: candy
+  - type: status
+    word: open
+    caption: for new projects
+    color: meadow
+    size: 2x1
+style:
+  gap: 14
