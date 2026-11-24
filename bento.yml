@@ -2,7 +2,7 @@
 github:
   user: amehara
 output: bento.svg
-theme: brutalist
+theme: dark
 cards:
   - type: hero
     size: 2x2
