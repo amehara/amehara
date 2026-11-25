@@ -1,10 +1,9 @@
 {
   "username": "amehara",
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "contributions": 39,
   "streak": 8,
   "last20": [
-    0,
     0,
     0,
     0,
@@ -23,7 +22,8 @@
     1,
     2,
     2,
-    13
+    13,
+    0
   ],
   "lines": 7120,
   "repos": 2,
@@ -34,15 +34,15 @@
   "languages": [
     [
       "Python",
-      73.6
+      72.8
     ],
     [
       "JavaScript",
-      17.3
+      18.3
     ],
     [
       "CSS",
-      6.0
+      5.8
     ],
     [
       "HTML",
@@ -521,17 +521,18 @@
     [
       2,
       2,
-      13
+      13,
+      0
     ]
   ],
   "top_repos": [
     {
-      "name": "amehara",
+      "name": "bento-readme",
       "stars": 1,
       "language": "Python"
     },
     {
-      "name": "bento-readme",
+      "name": "amehara",
       "stars": 1,
       "language": "Python"
     }
