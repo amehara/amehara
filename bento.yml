@@ -2,29 +2,53 @@
 github:
   user: amehara
 output: bento.svg
-theme: dark
+theme: auto
+alt: bento grid about me
 cards:
   - type: hero
     size: 2x2
     title: amehara
-    subtitle: entrepreneur, developer, designer
+    subtitle: full-stack developer
     headline:
-      - hello, im
-      - amehara.
+      - hey, i'm
+      - amehara
+    accent: blue
   - type: number
     source: contributions
     label:
       - contributions
-      - in the last year
-    color: aurora
+      - this year
+    color: ocean
   - type: streak
-  - type: band
-    text: thanks for stopping by.
-    color: candy
+    accent: green
+  - type: stack
+    size: 1x1
+    label: tools
+    items:
+      - java
+      - python
+      - typescript
+      - react
+      - next.js
+      - docker
+      - git
+  - type: number
+    style: plain
+    source: stars
+    label: stars earned
+    accent: pink
+    minis:
+      - repos
+      - followers
+      - contributions
   - type: status
     word: open
-    caption: for new projects
-    color: meadow
-    size: 2x1
-style:
-  gap: 14
+    caption: to collaborate
+  - type: repos
+  - type: cta
+    text: say hi
+    caption: i reply to everything
+    color: coral
+  - type: band
+    text: keep shipping.
+    color: lavender
