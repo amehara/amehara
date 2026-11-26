@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./bento.svg" alt="bento grid about amehara" width="100%">
+<img src="./bento-light.svg" alt="bento grid about amehara" width="100%">
 
 <br>
 
